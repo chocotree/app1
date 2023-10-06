@@ -1,0 +1,3 @@
+[submodule "commonMath"]
+	path = commonMath
+	url = https://github.com/chocotree/commonMath.git
